@@ -12384,16 +12384,13 @@ var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_
 const { createClientModuleProxy } = __turbopack_require__("[project]/node_modules/.pnpm/next@15.0.3_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-server-dom-turbopack-server-edge.js [app-rsc] (ecmascript)");
 __turbopack_export_namespace__(createClientModuleProxy("[project]/node_modules/.pnpm/next@15.0.3_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/next/dist/client/components/error-boundary.js"));
 }}),
-"[project]/node_modules/.pnpm/next@15.0.3_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/next/dist/client/components/error-boundary.js [app-rsc] (ecmascript)": ((__turbopack_context__) => {
-"use strict";
+"[project]/node_modules/.pnpm/next@15.0.3_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/next/dist/client/components/error-boundary.js [app-rsc] (ecmascript)": (function(__turbopack_context__) {
 
-var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, x: __turbopack_external_require__, y: __turbopack_external_import__, z: require } = __turbopack_context__;
+var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, x: __turbopack_external_require__, y: __turbopack_external_import__, m: module, e: exports, t: require } = __turbopack_context__;
 {
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$0$2e$3_react$2d$dom$40$19$2e$0$2e$0_react$40$19$2e$0$2e$0_$5f$react$40$19$2e$0$2e$0$2f$node_modules$2f$next$2f$dist$2f$client$2f$components$2f$error$2d$boundary$2e$js__$28$client__proxy$29$__$3c$module__evaluation$3e$__ = __turbopack_import__("[project]/node_modules/.pnpm/next@15.0.3_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/next/dist/client/components/error-boundary.js (client proxy) <module evaluation>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$0$2e$3_react$2d$dom$40$19$2e$0$2e$0_react$40$19$2e$0$2e$0_$5f$react$40$19$2e$0$2e$0$2f$node_modules$2f$next$2f$dist$2f$client$2f$components$2f$error$2d$boundary$2e$js__$28$client__proxy$29$__ = __turbopack_import__("[project]/node_modules/.pnpm/next@15.0.3_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/next/dist/client/components/error-boundary.js (client proxy)");
-;
-__turbopack_export_namespace__(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$0$2e$3_react$2d$dom$40$19$2e$0$2e$0_react$40$19$2e$0$2e$0_$5f$react$40$19$2e$0$2e$0$2f$node_modules$2f$next$2f$dist$2f$client$2f$components$2f$error$2d$boundary$2e$js__$28$client__proxy$29$__);
-}}),
+const e = new Error("Could not parse module '[project]/node_modules/.pnpm/next@15.0.3_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/next/dist/client/components/error-boundary.js'");
+e.code = 'MODULE_UNPARSEABLE';
+throw e;}}),
 "[project]/node_modules/.pnpm/next@15.0.3_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/next/dist/esm/server/app-render/entry-base.js [app-rsc] (ecmascript) <locals>": ((__turbopack_context__) => {
 "use strict";
 

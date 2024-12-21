@@ -2,7 +2,7 @@
   "version": 3,
   "sources": [],
   "sections": [
-    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///media/javlonbek/New%20Volume/nextjs_dashboard/app/dashboard/invoices/page.tsx"],"sourcesContent":["export default function Page(){\n    return <p>Invoices page</p>\n}"],"names":[],"mappings":";;;;;AAAe,SAAS;IACpB,qBAAO,6WAAC;kBAAE;;;;;;AACd"}},
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///media/javlonbek/New%20Volume/nextjs_dashboard/app/dashboard/invoices/page.tsx"],"sourcesContent":["export default function Page() {\n    return <p>Invoices Page</p>;\n  }"],"names":[],"mappings":";;;;;AAAe,SAAS;IACpB,qBAAO,6WAAC;kBAAE;;;;;;AACZ"}},
     {"offset": {"line": 21, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
     {"offset": {"line": 32, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
     {"offset": {"line": 32, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
