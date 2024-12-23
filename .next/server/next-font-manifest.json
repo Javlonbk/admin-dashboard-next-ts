@@ -1,10 +1,14 @@
 {
   "app": {
-    "[project]/app/dashboard/invoices/page": [
+    "[project]/app/dashboard/(overview)/page": [
       "static/media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw-s.p.7b3669ea.woff2",
       "static/media/CSR74z9ShvucWzsMKyDmafctaNZUvuwl-s.p.328982ad.woff2"
     ],
-    "[project]/app/dashboard/(overview)/page": [
+    "[project]/app/login/page": [
+      "static/media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw-s.p.7b3669ea.woff2",
+      "static/media/CSR74z9ShvucWzsMKyDmafctaNZUvuwl-s.p.328982ad.woff2"
+    ],
+    "[project]/app/dashboard/invoices/page": [
       "static/media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw-s.p.7b3669ea.woff2",
       "static/media/CSR74z9ShvucWzsMKyDmafctaNZUvuwl-s.p.328982ad.woff2"
     ],
@@ -13,10 +17,6 @@
       "static/media/CSR74z9ShvucWzsMKyDmafctaNZUvuwl-s.p.328982ad.woff2"
     ],
     "[project]/app/dashboard/invoices/create/page": [
-      "static/media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw-s.p.7b3669ea.woff2",
-      "static/media/CSR74z9ShvucWzsMKyDmafctaNZUvuwl-s.p.328982ad.woff2"
-    ],
-    "[project]/app/dashboard/customers/page": [
       "static/media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw-s.p.7b3669ea.woff2",
       "static/media/CSR74z9ShvucWzsMKyDmafctaNZUvuwl-s.p.328982ad.woff2"
     ]
